@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\bin\Debug\caculator.exe
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\bin\Debug\caculator.pdb
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\obj\x86\Debug\caculator.Form1_Main.resources
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\obj\x86\Debug\caculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\obj\x86\Debug\caculator.exe
+C:\Documents and Settings\Administrator\桌面\caculator\caculator\obj\x86\Debug\caculator.pdb
+C:\Users\49289\Desktop\caculator\caculator\bin\Debug\caculator.exe
+C:\Users\49289\Desktop\caculator\caculator\bin\Debug\caculator.pdb
+C:\Users\49289\Desktop\caculator\caculator\obj\x86\Debug\caculator.csprojAssemblyReference.cache
+C:\Users\49289\Desktop\caculator\caculator\obj\x86\Debug\caculator.Form1_Main.resources
+C:\Users\49289\Desktop\caculator\caculator\obj\x86\Debug\caculator.Properties.Resources.resources
+C:\Users\49289\Desktop\caculator\caculator\obj\x86\Debug\caculator.csproj.GenerateResource.cache
+C:\Users\49289\Desktop\caculator\caculator\obj\x86\Debug\caculator.csproj.CoreCompileInputs.cache
+C:\Users\49289\Desktop\caculator\caculator\obj\x86\Debug\caculator.exe
+C:\Users\49289\Desktop\caculator\caculator\obj\x86\Debug\caculator.pdb
+C:\Users\49289\Desktop\实验\caculator\caculator\bin\Debug\caculator.exe
+C:\Users\49289\Desktop\实验\caculator\caculator\bin\Debug\caculator.pdb
+C:\Users\49289\Desktop\实验\caculator\caculator\obj\x86\Debug\caculator.csprojAssemblyReference.cache
+C:\Users\49289\Desktop\实验\caculator\caculator\obj\x86\Debug\caculator.Form1_Main.resources
+C:\Users\49289\Desktop\实验\caculator\caculator\obj\x86\Debug\caculator.Properties.Resources.resources
+C:\Users\49289\Desktop\实验\caculator\caculator\obj\x86\Debug\caculator.csproj.GenerateResource.cache
+C:\Users\49289\Desktop\实验\caculator\caculator\obj\x86\Debug\caculator.csproj.CoreCompileInputs.cache
+C:\Users\49289\Desktop\实验\caculator\caculator\obj\x86\Debug\caculator.exe
+C:\Users\49289\Desktop\实验\caculator\caculator\obj\x86\Debug\caculator.pdb
+H:\备份\实验\caculator\caculator\bin\Debug\caculator.exe
+H:\备份\实验\caculator\caculator\bin\Debug\caculator.pdb
+H:\备份\实验\caculator\caculator\obj\x86\Debug\caculator.csprojAssemblyReference.cache
+H:\备份\实验\caculator\caculator\obj\x86\Debug\caculator.Form1_Main.resources
+H:\备份\实验\caculator\caculator\obj\x86\Debug\caculator.Properties.Resources.resources
+H:\备份\实验\caculator\caculator\obj\x86\Debug\caculator.csproj.GenerateResource.cache
+H:\备份\实验\caculator\caculator\obj\x86\Debug\caculator.csproj.CoreCompileInputs.cache
+H:\备份\实验\caculator\caculator\obj\x86\Debug\caculator.exe
+H:\备份\实验\caculator\caculator\obj\x86\Debug\caculator.pdb
